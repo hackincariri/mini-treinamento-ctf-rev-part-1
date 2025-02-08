@@ -1,0 +1,7 @@
+Binary Patching
+
+https://app.hackincariri.com.br/challenge-week/035105d6-c9d4-4cc2-b2f8-d67651cc91a6
+
+Control Flow Analysis and Debugging
+
+https://app.hackincariri.com.br/challenge-week/71764169-4249-4f76-bfc7-f0ff9a20a432
